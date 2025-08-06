@@ -25,7 +25,7 @@ class Robot {
             System.out.println("Battery too low.");
         }
     }
-}
+} 
 
 class Main {
     public static void main(String[] args) throws Exception {
